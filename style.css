@@ -1,0 +1,73 @@
+/* Style.css */
+
+body{
+background:#C7F9CC;
+font-family:Tahoma;
+}
+
+.main-nav{
+background:#252525;
+}
+
+.navbar-brand,
+.nav-link{
+color:white !important;
+font-size:20px;
+}
+
+.hero-section{
+padding:100px 0;
+background: linear-gradient(to bottom,  #80ED99,#C7F9CC);
+/* color:#22577A; */
+}
+
+.main-btn{
+background:#57CC99;
+color:white;
+border:none;
+padding:10px 25px;
+}
+
+.main-btn:hover{
+background:#38A3A5;
+color:white;
+}
+
+.card{
+border:none;
+border-radius:15px;
+overflow:hidden;
+}
+
+.card img{
+height:250px;
+object-fit:cover;
+}
+
+table{
+background:white;
+}
+
+thead{
+background:#22577A;
+color:white;
+}
+
+.details-btn{
+background:#57CC99;
+border:none;
+}
+
+.details-row{
+display:none;
+background:#80ED99;
+}
+
+form label{
+margin-bottom:10px;
+font-weight:bold;
+}
+
+.form-control{
+border:2px solid #38A3A5;
+}
